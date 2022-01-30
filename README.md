@@ -4,8 +4,10 @@ NMPC Design in MATLAB/Simulink for Speedgoat Target Machine Using Acado Toolkit
 Sussessfully tested on MATLAB-2021
 
 Citation: Please cite this article:  https://doi.org/10.1049/rpg2.12257
+
 "Application of real-time nonlinear model predictive control for wave energy conversion"
 Ali S. Haider, Ted K.A. Brekken, Alan McCall
+
 IET Renewable Power Generation, 2021
 
 
