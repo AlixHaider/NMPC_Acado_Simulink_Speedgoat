@@ -23,8 +23,8 @@ Instruction:
 
 4>>Unzip the package into a folder named acadoMaster
 
-5>> Copy acadoMaster folder in C drive. The path will look like this: C:\acadoMaster
-Add acadoMaster folder and its sub folders to matlab path, and save this path for future matlab sessions too.
+5>> Copy acadoMaster folder in C drive. The path will look like this: C:\acadoMaster.
+Now add acadoMaster folder and its sub folders to matlab path, and save this path for future matlab sessions too.
 
 6>> In matlab, Run “make clean all” command with the current directory set to C:\acadoMaster\interfaces\matlab
 It should start generating the mex files needed for later code generation. This process should complete 100%. This step needs to be done once while you are setting up Acado toolkit. One successful, you do not need to repeat it for the future matlab sessions.
