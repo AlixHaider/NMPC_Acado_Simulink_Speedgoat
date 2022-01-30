@@ -23,11 +23,11 @@ Instruction:
 
 4>>Unzip the package into a folder named acadoMaster
 
-5>>Create a new folder named Program in C drive and copy acadoMaster folder in that. The path will look like this: C:\Program\acadoMaster
+5>> Copy acadoMaster folder in C drive. The path will look like this: C:\acadoMaster
 Add acadoMaster folder and its sub folders to matlab path, and save this path for future matlab sessions too.
 
-6>> In matlab, Run “make clean all” command with the current directory set to C:\Program\acadoMaster\interfaces\matlab
-It should start generating the mex files needed for later code generation. This process should complete 100%
+6>> In matlab, Run “make clean all” command with the current directory set to C:\acadoMaster\interfaces\matlab
+It should start generating the mex files needed for later code generation. This process should complete 100%. This step needs to be done once while you are setting up Acado toolkit. One successful, you do not need to repeat it for the future matlab sessions.
 
 7>> Now download and unzip our full directory “NMPC_Acado_Simulink_Speedgoat” and set it as current directory in Matlab.
 
