@@ -1,5 +1,6 @@
 # NMPC_Acado_Simulink_Speedgoat
 NMPC Design in MATLAB/Simulink for Speedgoat Target Machine Using Acado Toolkit 
+
 Sussessfully tested on MATLAB-2021
 
 Citation: Please cite this article:  https://doi.org/10.1049/rpg2.12257
@@ -11,6 +12,7 @@ IET Renewable Power Generation, 2021
 Instruction:
 
 1>>Download and install community (free) version of Visual Studio 2019 from https://visualstudio.microsoft.com/downloads/ and Install MSBuild package.
+
 2>> After step 1, launch Matlab, and  “mex -setup C++” command should show following the outcome:
 “MEX configured to use 'Microsoft Visual C++ 2019' for C++ language compilation.”
 
