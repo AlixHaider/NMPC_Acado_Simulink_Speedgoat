@@ -4,7 +4,7 @@
 %% This Code has 5 Sections.
 %% Note: This file has to run successfully for Simulink model to work.
 %% Author: Ali S. Haider at Oregon State University
-%% Date Last Modified: Sept 23, 2020.
+%% Date Last Modified: Dec 04, 2022.
 %% ===============> Code SECTION 1 <===============
 %==> House cleaning and ACADO compiler settings
 clc; 
