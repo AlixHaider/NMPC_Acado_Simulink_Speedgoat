@@ -6,7 +6,7 @@
 %% Author: Ali S. Haider at Oregon State University
 %% Date Last Modified: Sept 23, 2020.
 %% ===============> Code SECTION 1 <===============
-%==> House cleaning and ACADO compiler setting
+%==> House cleaning and ACADO compiler settings
 clc; 
 clear all;
 close all;
