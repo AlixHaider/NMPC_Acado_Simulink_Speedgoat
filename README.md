@@ -41,4 +41,4 @@ https://www.linkedin.com/in/ali-s-haider-eecs/
 
 Best
 
--Ali S. Haider
+-Dr. Ali S. Haider
